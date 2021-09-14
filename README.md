@@ -1,7 +1,16 @@
 # The Ultimate Go Study Guide
 
-The Ultimate Go Study Guide is a collection of notes for students taking the Ultimate Go class.
-It is compiled of sample programs with line-by-line comments to help students follow the code better.
+The Ultimate Go Study Guide is a collection of notes taken by Hoanh An for students taking the Ultimate Go class. It is compiled of sample programs with line-by-line comments to help students follow the code better.
+
+**Please be aware that this material is no longer being maintained and people should look at the GoTraining repo directly for this content. Ardan Labs can't warranty the accuracy of this material.**
+
+https://github.com/ardanlabs/gotraining
+
+## Book
+
+The Ultimate Go Notebook was written to suppliment learning from the material in the Go Training repo.
+
+https://education.ardanlabs.com/courses/ultimate-go-notebook
 
 ## Table of Contents 
 
